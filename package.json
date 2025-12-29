@@ -1,0 +1,22 @@
+{
+  "name": "playwright_design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanFGreen/Playwright_design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanFGreen/Playwright_design/issues"
+  },
+  "homepage": "https://github.com/JanFGreen/Playwright_design#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
