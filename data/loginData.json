@@ -1,5 +1,5 @@
 [
-    {"username": "test1@example.com", "password": "pass1"},
-    {"username": "johnsmith@example.com", "password": "ndjvlkjdsfg"},
-    {"username": "dave.smith@example.com", "password": "1pass2"}
+    {"email": "test1@example.com", "password": "pass1"},
+    {"email": "johnsmith@example.com", "password": "ndjvlkjdsfg"},
+    {"email": "dave.smith@example.com", "password": "1pass2"}
 ]
